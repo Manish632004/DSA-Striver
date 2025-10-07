@@ -10,7 +10,8 @@
     "initializer_list": "cpp",
     "valarray": "cpp",
     "ios": "cpp",
-    "print": "cpp"
+    "print": "cpp",
+    "numbers": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
