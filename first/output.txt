@@ -1,0 +1,8 @@
+10
+15
+20
+by value num is :10
+10
+15
+20
+by reference num is :20

@@ -1,0 +1,13 @@
+{
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "barrier": "cpp",
+    "memory_resource": "cpp",
+    "bitset": "cpp",
+    "random": "cpp",
+    "initializer_list": "cpp",
+    "valarray": "cpp"
+  }
+}
